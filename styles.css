@@ -1,1 +1,83 @@
-/* Write your CSS here! */
+html {
+    background-color: blanchedalmond;
+}
+
+title {
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 5em;
+    text-align: center;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+h1, h2, h3 {
+	margin: auto;
+    text-align: center;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+	padding: 0.625em 0 0.625em 0.625em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:dodgerblue
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+section {
+	margin: 7.75em;
+    background-color: rgb(241, 181, 161);
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+img {
+	width: 40%;
+	max-width: 40%;
+}
+
+.funParagraph{
+    color:green;
+    margin: auto;
+    text-align: center;
+    font-size: medium;
+}
+
+p {
+	padding: 1.25em;
+}
+
+figure {
+	margin: auto;
+	padding: auto;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: right;
+	padding: 0.5em;
+}
+
+footer p {
+	display: inline-block;
+}
+
